@@ -14,44 +14,84 @@ Add your timetable
 Execute the program
 
 # CODE
-~~~<!DOCTYPE html>
-<html>
+```<!DOCTYPE html>
+<html lang="eng">
+  </head>
+  <title>Page Title</title>
+  </head>
+  <body>
+  <table border=1>
+    <tr>
+    <th colspan=8>Time Table</th>
+   </tr>
+    <tr>
+       <td colspan=2>Reference number:</td>
+       <td colspan=2>21500533</td>
+       <td colspan=2>Name:</td>
+       <td colspan=2>J.Archana Priya</td>
+    </tr>
+    <tr>
+       <td>Days</td>
+       <td>1</td>
+       <td>2</td>
+       <td>3</td>
+       <td>4</td>
+       <td rowspan=5>Lunch Break</td>
+       <td>5</td>
+       <td>6</td>
+    </tr>
+    <tr>
+       <td>Monday</td>
+       <td>19AI401C/Obedotto</td>
+       <td>19AI401C/Obed otto</td>
+       <td>19AI301C/Jeba jasphin</td>
+       <td>19AI301CJeba jasphin</td>
+       <td>19MA220/Jeba jasphin</td>
+       <td>19MA220/Jeba jasphin</td>
+    </tr>
+    <tr>
+       <td>Tuesday</td>
+       <td>-</td>
+       <td>-</td>
+       <td>19AI302/Sellakumar</td>
+       <td>19AI302/Sellakumar</td>
+       <td>19AI303/Sellakumar</td>
+       <td>19AI303/Sellakumar</td>
+    </tr>
+    <tr>
+       <td>Wednesday</td>
+       <td>19EY701/Sneha priya</td>
+       <td>19EY701/Sneha priya</td>
+       <td>19MA220/Jeba jasphin</td>
+       <td>19MA220/Jeba jasphin</td>
+       <td>19AI401/Obed otto</td>
+       <td>19AI401/Obed otto</td>
+     </tr>
+     <tr>
+        <td>Thursday</td>
+        <td>19AI303/Sellakumar</td>
+        <td>19AI303/Sellakumar</td>
+        <td>19AI301/Jeba jasphin</td>
+        <td>19AI301/Jeba jasphin</td>
+        <td>19AI302/Sellakumar</td>
+        <td>19AI302/Sellakumar</td>
+     </tr>
+     <tr>
+        <td>Friday</td>
+        <td>-</td>
+        <td>-</td>
+        <td>19AI301/Jeba jasphin</td>
+        <td>19AI301/Jeba jasphin</td>
+        <td>ECA051-AD/Niha</td>
+        <td>19AI402/Obed otto</td>
+        <td>19AI402/Obed otto</td>
+   </tr>
+  </table>
+  </body>
+  </html>
+  ```
 
-   <head>
-      <title>TIME TABLE</title>
-   </head>
-	
-   <body>
-      <table border = "1" cellspacing="1" bordercolor="blue" bgcolor="yellow">
-         <tr>
-            <th colspan="8">TIME TABLE</th>
-         </tr>
-         
-         <tr>
-            <th>DAYS</th>
-            <th>1</th>
-            <th>2</th>
-            <th>3</th>
-             <th>4</th>
-            <th rowspan="6">lunch break</th>
-            <th>5</th>
-            <th>6</th>
-         </tr>
-          <tr>
-             <td>MONDAY</td>
-             <td>Accounts</td>
-             <td>English</td>
-             <td>Statistics</td>
-             <td>Banking</td>
-             <td align="center">-</td>
-             <td align="center">EP</td>
-         </tr>
-  
-         
-      </table>
-      
-   </body>
-</html>
+
 
 
 ~~~
