@@ -94,5 +94,7 @@ Execute the program
 
 
 
-~~~
-# OUPUT
+
+#OUPUT:
+
+![Timetable](./Timetable.png)
