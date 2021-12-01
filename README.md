@@ -14,6 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
+<img src="logo.png"></img>
 ```<!DOCTYPE html>
 <html lang="eng">
   </head>
@@ -87,17 +88,21 @@ Execute the program
         <td>19AI402/Obed otto</td>
    </tr>
   </table>
+  <br><center>1.19AI401C-web technology</center></br>
+  <br><center>2.19AI301C-Python programming</center></br>
+  <br><center>3.19MA220-Maths for AI</center></br>
+  <br><center>4.19AI302-Engineering design and modeling</center></br>
+  <br><center>519AI303-Engineering mechanics and product development.</center></br>
+  <br><center>6.19EY701-Soft skills</center></br>
+  <br><center>7.19AI402-Web tech lab</center></br>
+  <br><center>8.ECA051-Mentoring</center></br>  
+
   </body>
   </html>
   ```
-
-
-
-
-
 # Output
 
-![Timetable](./Timetable.png)
 
+![Github](./images/finaloutput.png)
 # Result:
 The respective output has been generated.
