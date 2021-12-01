@@ -14,7 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
-<img src="logo.png"></img>
+
 ```<!DOCTYPE html>
 <html lang="eng">
   </head>
@@ -103,6 +103,6 @@ Execute the program
 # Output
 
 
-![Github](./images/finaloutput.png)
+
 # Result:
 The respective output has been generated.
