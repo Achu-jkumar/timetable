@@ -15,7 +15,7 @@ Execute the program
 
 # CODE
 
-```<!DOCTYPE html>
+``````<!DOCTYPE html>
 <html lang="eng">
   </head>
   <title>Page Title</title>
@@ -100,8 +100,10 @@ Execute the program
   </body>
   </html>
   ```
+  ```
 # Output
 ![outputlast](./outputlast.png)
+![validator](./validator.png)
 
 
 # Result:
