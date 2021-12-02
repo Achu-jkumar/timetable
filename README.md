@@ -103,7 +103,7 @@ Execute the program
 
 # Output
 ![outputlast](./outputlast.png)
-![validator](./validator.png)
+![Validator](./Validator.png)
 
 
 # Result:
